@@ -271,9 +271,6 @@ mandi-mind/
 ├── next.config.ts
 └── README.md
 ```
-
-```
-
 ---
 
 ## 📊 The Market Opportunity
