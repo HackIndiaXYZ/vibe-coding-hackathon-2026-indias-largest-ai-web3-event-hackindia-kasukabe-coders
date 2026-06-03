@@ -347,4 +347,4 @@ This project was built for the **HackIndia Vibe Coding Hackathon 2026** under th
   <a href="https://your-demo-video-link">🎥 Demo Video</a> •
   <a href="mailto:your@email.com">📧 Contact</a>
 </div>
->>>>>>> e84f4395fdbbc16d547783d4b3aca63fba274aaa
+
