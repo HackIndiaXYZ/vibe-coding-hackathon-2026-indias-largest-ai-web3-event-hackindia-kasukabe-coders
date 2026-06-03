@@ -1,4 +1,4 @@
-<img width="1189" height="870" alt="image" src="https://github.com/user-attachments/assets/8886f7e0-e3f3-4db4-ade6-abc2ddd47b8e" /># vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia-kasukabe-coders
+# vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia-kasukabe-coders
 Hackathon team repository for Kasukabe Coders - [hackindia-team:vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia:kasukabe-coders]
 
 # 🌾 MandiMind AI
