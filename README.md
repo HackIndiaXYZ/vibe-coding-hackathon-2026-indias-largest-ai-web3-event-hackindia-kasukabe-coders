@@ -1,4 +1,4 @@
-# vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia-kasukabe-coders
+<img width="1189" height="870" alt="image" src="https://github.com/user-attachments/assets/8886f7e0-e3f3-4db4-ade6-abc2ddd47b8e" /># vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia-kasukabe-coders
 Hackathon team repository for Kasukabe Coders - [hackindia-team:vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia:kasukabe-coders]
 
 # 🌾 MandiMind AI
@@ -217,25 +217,61 @@ GROQ_API_KEY=your_groq_api_key_here
 ## 📁 Project Structure
 
 ```
-mandimind-ai/
-├── app/
-│   ├── dashboard/
-│   │   ├── page.tsx              # Main dashboard
-│   │   ├── opportunities/        # Opportunity Scanner
-│   │   ├── forecast/             # Price Forecast Engine
-│   │   ├── risk-alerts/          # Risk Alert System
-│   │   ├── scenario/             # Scenario Simulator
-│   │   ├── analyst/              # AI Market Analyst
-│   │   ├── insights/             # AI Insights
-│   │   ├── historical/           # Historical Trends
-│   │   └── data-upload/          # CSV Upload System
-│   └── api/
-│       ├── forecast/             # Forecast API
-│       └── analyst/              # AI Analyst API
+
+mandi-mind/
 ├── data/
-│   ├── demo/                     # Demo dataset (Onion, Tomato, Potato, Garlic)
-│   └── uploaded/                 # User-uploaded AGMARKNET data
-└── components/                   # Reusable UI components
+│   ├── demo/                          # Demo AGMARKNET datasets
+│   ├── uploaded/                      # User-uploaded datasets
+│   └── dataset-config.json            # Active dataset configuration
+│
+├── public/                            # Static assets
+│
+├── src/
+│   ├── app/
+│   │   ├── api/
+│   │   │   ├── analyst/               # AI Market Analyst API
+│   │   │   ├── dashboard/summary/     # Dashboard aggregation API
+│   │   │   ├── forecast/              # Forecast API
+│   │   │   ├── market-data/           # Market data APIs
+│   │   │   ├── opportunities/         # Opportunity Scanner API
+│   │   │   └── scenario/              # Scenario Simulator API
+│   │   │
+│   │   ├── dashboard/
+│   │   │   ├── page.tsx               # Executive Overview
+│   │   │   ├── opportunities/         # Opportunity Scanner
+│   │   │   ├── forecasts/             # Forecast Engine
+│   │   │   ├── risk-alerts/           # Risk Alert System
+│   │   │   ├── scenario/              # Scenario Simulator
+│   │   │   ├── analyst/               # AI Market Analyst
+│   │   │   ├── insights/              # AI Insights
+│   │   │   ├── historical/            # Historical Trends
+│   │   │   └── data-upload/           # AGMARKNET Import Workflow
+│   │   │
+│   │   ├── layout.tsx
+│   │   ├── page.tsx                   # Landing Page
+│   │   └── globals.css
+│   │
+│   ├── components/
+│   │   ├── dashboard/                 # Dashboard UI components
+│   │   ├── charts/                    # Recharts visualizations
+│   │   ├── landing/                   # Landing page components
+│   │   └── ui/                        # Shared UI components
+│   │
+│   ├── lib/
+│   │   ├── csv-parser.ts              # AGMARKNET CSV parser
+│   │   ├── market-data.ts             # Data access layer
+│   │   ├── forecast.ts                # Forecasting engine
+│   │   ├── scenario.ts                # Elasticity simulator
+│   │   └── dashboard-helpers.ts       # KPI aggregation helpers
+│   │
+│   └── types/                         # TypeScript interfaces
+│
+├── package.json
+├── tsconfig.json
+├── next.config.ts
+└── README.md
+```
+
 ```
 
 ---
