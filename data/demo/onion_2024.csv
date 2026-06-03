@@ -1,0 +1,79 @@
+Date,Commodity,Mandi,State,ArrivalQty,ModalPrice
+01/01/2024,Onion,Lasalgaon,Maharashtra,44800,1860
+01/01/2024,Onion,Pimpalgaon,Maharashtra,32500,1780
+01/01/2024,Onion,Kurnool,Andhra Pradesh,28200,1720
+08/01/2024,Onion,Lasalgaon,Maharashtra,46200,1920
+08/01/2024,Onion,Pimpalgaon,Maharashtra,33800,1840
+08/01/2024,Onion,Kurnool,Andhra Pradesh,29100,1770
+15/01/2024,Onion,Lasalgaon,Maharashtra,48500,1980
+15/01/2024,Onion,Pimpalgaon,Maharashtra,35200,1900
+15/01/2024,Onion,Kurnool,Andhra Pradesh,30500,1840
+22/01/2024,Onion,Lasalgaon,Maharashtra,45100,1950
+22/01/2024,Onion,Pimpalgaon,Maharashtra,33600,1870
+22/01/2024,Onion,Kurnool,Andhra Pradesh,29800,1800
+29/01/2024,Onion,Lasalgaon,Maharashtra,47300,2010
+29/01/2024,Onion,Pimpalgaon,Maharashtra,34900,1930
+29/01/2024,Onion,Kurnool,Andhra Pradesh,30200,1860
+05/02/2024,Onion,Lasalgaon,Maharashtra,50200,2100
+05/02/2024,Onion,Pimpalgaon,Maharashtra,36800,2020
+05/02/2024,Onion,Kurnool,Andhra Pradesh,32400,1960
+12/02/2024,Onion,Lasalgaon,Maharashtra,52100,2180
+12/02/2024,Onion,Pimpalgaon,Maharashtra,38200,2100
+12/02/2024,Onion,Kurnool,Andhra Pradesh,33800,2040
+19/02/2024,Onion,Lasalgaon,Maharashtra,53800,2250
+19/02/2024,Onion,Pimpalgaon,Maharashtra,39500,2170
+19/02/2024,Onion,Kurnool,Andhra Pradesh,35100,2110
+26/02/2024,Onion,Lasalgaon,Maharashtra,51600,2200
+26/02/2024,Onion,Pimpalgaon,Maharashtra,37800,2120
+26/02/2024,Onion,Kurnool,Andhra Pradesh,34200,2060
+04/03/2024,Onion,Lasalgaon,Maharashtra,55200,2380
+04/03/2024,Onion,Pimpalgaon,Maharashtra,41200,2300
+04/03/2024,Onion,Kurnool,Andhra Pradesh,36800,2240
+11/03/2024,Onion,Lasalgaon,Maharashtra,57800,2500
+11/03/2024,Onion,Pimpalgaon,Maharashtra,43100,2420
+11/03/2024,Onion,Kurnool,Andhra Pradesh,38500,2360
+18/03/2024,Onion,Lasalgaon,Maharashtra,60200,2580
+18/03/2024,Onion,Pimpalgaon,Maharashtra,45200,2500
+18/03/2024,Onion,Kurnool,Andhra Pradesh,40100,2440
+25/03/2024,Onion,Lasalgaon,Maharashtra,58500,2520
+25/03/2024,Onion,Pimpalgaon,Maharashtra,43800,2440
+25/03/2024,Onion,Kurnool,Andhra Pradesh,39200,2380
+01/04/2024,Onion,Lasalgaon,Maharashtra,52100,2380
+01/04/2024,Onion,Pimpalgaon,Maharashtra,38800,2300
+01/04/2024,Onion,Kurnool,Andhra Pradesh,34500,2240
+08/04/2024,Onion,Lasalgaon,Maharashtra,49800,2280
+08/04/2024,Onion,Pimpalgaon,Maharashtra,37200,2200
+08/04/2024,Onion,Kurnool,Andhra Pradesh,33100,2140
+15/04/2024,Onion,Lasalgaon,Maharashtra,47500,2200
+15/04/2024,Onion,Pimpalgaon,Maharashtra,35600,2120
+15/04/2024,Onion,Kurnool,Andhra Pradesh,31800,2060
+22/04/2024,Onion,Lasalgaon,Maharashtra,46200,2160
+22/04/2024,Onion,Pimpalgaon,Maharashtra,34500,2080
+22/04/2024,Onion,Kurnool,Andhra Pradesh,30800,2020
+29/04/2024,Onion,Lasalgaon,Maharashtra,48100,2240
+29/04/2024,Onion,Pimpalgaon,Maharashtra,36200,2160
+29/04/2024,Onion,Kurnool,Andhra Pradesh,32400,2100
+06/05/2024,Onion,Lasalgaon,Maharashtra,53800,2580
+06/05/2024,Onion,Pimpalgaon,Maharashtra,40200,2500
+06/05/2024,Onion,Kurnool,Andhra Pradesh,35800,2440
+13/05/2024,Onion,Lasalgaon,Maharashtra,57200,2700
+13/05/2024,Onion,Pimpalgaon,Maharashtra,42800,2620
+13/05/2024,Onion,Kurnool,Andhra Pradesh,38200,2560
+20/05/2024,Onion,Lasalgaon,Maharashtra,60100,2800
+20/05/2024,Onion,Pimpalgaon,Maharashtra,45100,2720
+20/05/2024,Onion,Kurnool,Andhra Pradesh,40500,2660
+27/05/2024,Onion,Lasalgaon,Maharashtra,62500,2880
+27/05/2024,Onion,Pimpalgaon,Maharashtra,46800,2800
+27/05/2024,Onion,Kurnool,Andhra Pradesh,42100,2740
+03/06/2024,Onion,Lasalgaon,Maharashtra,64200,2940
+03/06/2024,Onion,Pimpalgaon,Maharashtra,48200,2860
+03/06/2024,Onion,Kurnool,Andhra Pradesh,43500,2800
+10/06/2024,Onion,Lasalgaon,Maharashtra,65800,2980
+10/06/2024,Onion,Pimpalgaon,Maharashtra,49500,2900
+10/06/2024,Onion,Kurnool,Andhra Pradesh,44200,2840
+17/06/2024,Onion,Lasalgaon,Maharashtra,63100,2920
+17/06/2024,Onion,Pimpalgaon,Maharashtra,47300,2840
+17/06/2024,Onion,Kurnool,Andhra Pradesh,42800,2780
+24/06/2024,Onion,Lasalgaon,Maharashtra,61500,2880
+24/06/2024,Onion,Pimpalgaon,Maharashtra,46100,2800
+24/06/2024,Onion,Kurnool,Andhra Pradesh,41500,2740

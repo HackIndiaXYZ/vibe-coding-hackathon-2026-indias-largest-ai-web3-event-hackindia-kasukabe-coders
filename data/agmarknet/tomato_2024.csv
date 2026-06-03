@@ -1,0 +1,79 @@
+Date,Commodity,Mandi,State,ArrivalQty,ModalPrice
+01/01/2024,Tomato,Kolar,Karnataka,68500,1240
+01/01/2024,Tomato,Bangalore APMC,Karnataka,82100,1180
+01/01/2024,Tomato,Pune APMC,Maharashtra,54200,1150
+08/01/2024,Tomato,Kolar,Karnataka,65200,1180
+08/01/2024,Tomato,Bangalore APMC,Karnataka,79800,1120
+08/01/2024,Tomato,Pune APMC,Maharashtra,51800,1090
+15/01/2024,Tomato,Kolar,Karnataka,71800,1280
+15/01/2024,Tomato,Bangalore APMC,Karnataka,85400,1220
+15/01/2024,Tomato,Pune APMC,Maharashtra,56800,1190
+22/01/2024,Tomato,Kolar,Karnataka,69400,1220
+22/01/2024,Tomato,Bangalore APMC,Karnataka,83200,1160
+22/01/2024,Tomato,Pune APMC,Maharashtra,55100,1130
+29/01/2024,Tomato,Kolar,Karnataka,73500,1260
+29/01/2024,Tomato,Bangalore APMC,Karnataka,87600,1200
+29/01/2024,Tomato,Pune APMC,Maharashtra,58200,1170
+05/02/2024,Tomato,Kolar,Karnataka,61200,980
+05/02/2024,Tomato,Bangalore APMC,Karnataka,74500,920
+05/02/2024,Tomato,Pune APMC,Maharashtra,49800,900
+12/02/2024,Tomato,Kolar,Karnataka,58800,940
+12/02/2024,Tomato,Bangalore APMC,Karnataka,71200,880
+12/02/2024,Tomato,Pune APMC,Maharashtra,47600,860
+19/02/2024,Tomato,Kolar,Karnataka,63500,1020
+19/02/2024,Tomato,Bangalore APMC,Karnataka,76800,960
+19/02/2024,Tomato,Pune APMC,Maharashtra,51200,940
+26/02/2024,Tomato,Kolar,Karnataka,66200,1040
+26/02/2024,Tomato,Bangalore APMC,Karnataka,80100,980
+26/02/2024,Tomato,Pune APMC,Maharashtra,53500,960
+04/03/2024,Tomato,Kolar,Karnataka,74800,1480
+04/03/2024,Tomato,Bangalore APMC,Karnataka,90200,1420
+04/03/2024,Tomato,Pune APMC,Maharashtra,60100,1390
+11/03/2024,Tomato,Kolar,Karnataka,78200,1540
+11/03/2024,Tomato,Bangalore APMC,Karnataka,94500,1480
+11/03/2024,Tomato,Pune APMC,Maharashtra,63000,1450
+18/03/2024,Tomato,Kolar,Karnataka,76500,1500
+18/03/2024,Tomato,Bangalore APMC,Karnataka,92100,1440
+18/03/2024,Tomato,Pune APMC,Maharashtra,61500,1410
+25/03/2024,Tomato,Kolar,Karnataka,75200,1460
+25/03/2024,Tomato,Bangalore APMC,Karnataka,90800,1400
+25/03/2024,Tomato,Pune APMC,Maharashtra,60300,1370
+01/04/2024,Tomato,Kolar,Karnataka,83500,1860
+01/04/2024,Tomato,Bangalore APMC,Karnataka,101200,1800
+01/04/2024,Tomato,Pune APMC,Maharashtra,67500,1760
+08/04/2024,Tomato,Kolar,Karnataka,86200,1920
+08/04/2024,Tomato,Bangalore APMC,Karnataka,104800,1860
+08/04/2024,Tomato,Pune APMC,Maharashtra,69800,1820
+15/04/2024,Tomato,Kolar,Karnataka,88500,1960
+15/04/2024,Tomato,Bangalore APMC,Karnataka,107200,1900
+15/04/2024,Tomato,Pune APMC,Maharashtra,71500,1860
+22/04/2024,Tomato,Kolar,Karnataka,87100,1920
+22/04/2024,Tomato,Bangalore APMC,Karnataka,105600,1860
+22/04/2024,Tomato,Pune APMC,Maharashtra,70300,1820
+29/04/2024,Tomato,Kolar,Karnataka,89800,1960
+29/04/2024,Tomato,Bangalore APMC,Karnataka,108900,1900
+29/04/2024,Tomato,Pune APMC,Maharashtra,72600,1860
+06/05/2024,Tomato,Kolar,Karnataka,92400,2140
+06/05/2024,Tomato,Bangalore APMC,Karnataka,112100,2080
+06/05/2024,Tomato,Pune APMC,Maharashtra,74800,2040
+13/05/2024,Tomato,Kolar,Karnataka,95200,2200
+13/05/2024,Tomato,Bangalore APMC,Karnataka,115800,2140
+13/05/2024,Tomato,Pune APMC,Maharashtra,77200,2100
+20/05/2024,Tomato,Kolar,Karnataka,94100,2160
+20/05/2024,Tomato,Bangalore APMC,Karnataka,114200,2100
+20/05/2024,Tomato,Pune APMC,Maharashtra,76100,2060
+27/05/2024,Tomato,Kolar,Karnataka,96800,2200
+27/05/2024,Tomato,Bangalore APMC,Karnataka,117500,2140
+27/05/2024,Tomato,Pune APMC,Maharashtra,78500,2100
+03/06/2024,Tomato,Kolar,Karnataka,88200,1740
+03/06/2024,Tomato,Bangalore APMC,Karnataka,107100,1680
+03/06/2024,Tomato,Pune APMC,Maharashtra,71500,1640
+10/06/2024,Tomato,Kolar,Karnataka,84500,1640
+10/06/2024,Tomato,Bangalore APMC,Karnataka,102800,1580
+10/06/2024,Tomato,Pune APMC,Maharashtra,68500,1540
+17/06/2024,Tomato,Kolar,Karnataka,82100,1580
+17/06/2024,Tomato,Bangalore APMC,Karnataka,99800,1520
+17/06/2024,Tomato,Pune APMC,Maharashtra,66500,1480
+24/06/2024,Tomato,Kolar,Karnataka,80500,1520
+24/06/2024,Tomato,Bangalore APMC,Karnataka,97800,1460
+24/06/2024,Tomato,Pune APMC,Maharashtra,64800,1420

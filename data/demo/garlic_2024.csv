@@ -1,0 +1,79 @@
+Date,Commodity,Mandi,State,ArrivalQty,ModalPrice
+01/01/2024,Garlic,Neemuch,Madhya Pradesh,17800,5520
+01/01/2024,Garlic,Indore,Madhya Pradesh,13200,5380
+01/01/2024,Garlic,Kota,Rajasthan,9800,5280
+08/01/2024,Garlic,Neemuch,Madhya Pradesh,16500,5480
+08/01/2024,Garlic,Indore,Madhya Pradesh,12800,5340
+08/01/2024,Garlic,Kota,Rajasthan,9200,5240
+15/01/2024,Garlic,Neemuch,Madhya Pradesh,18200,5580
+15/01/2024,Garlic,Indore,Madhya Pradesh,13800,5440
+15/01/2024,Garlic,Kota,Rajasthan,10200,5340
+22/01/2024,Garlic,Neemuch,Madhya Pradesh,17600,5540
+22/01/2024,Garlic,Indore,Madhya Pradesh,13400,5400
+22/01/2024,Garlic,Kota,Rajasthan,9900,5300
+29/01/2024,Garlic,Neemuch,Madhya Pradesh,18800,5600
+29/01/2024,Garlic,Indore,Madhya Pradesh,14100,5460
+29/01/2024,Garlic,Kota,Rajasthan,10500,5360
+05/02/2024,Garlic,Neemuch,Madhya Pradesh,16800,5800
+05/02/2024,Garlic,Indore,Madhya Pradesh,12400,5660
+05/02/2024,Garlic,Kota,Rajasthan,9100,5560
+12/02/2024,Garlic,Neemuch,Madhya Pradesh,17200,5880
+12/02/2024,Garlic,Indore,Madhya Pradesh,12900,5740
+12/02/2024,Garlic,Kota,Rajasthan,9400,5640
+19/02/2024,Garlic,Neemuch,Madhya Pradesh,16500,5840
+19/02/2024,Garlic,Indore,Madhya Pradesh,12200,5700
+19/02/2024,Garlic,Kota,Rajasthan,9000,5600
+26/02/2024,Garlic,Neemuch,Madhya Pradesh,17800,5900
+26/02/2024,Garlic,Indore,Madhya Pradesh,13300,5760
+26/02/2024,Garlic,Kota,Rajasthan,9700,5660
+04/03/2024,Garlic,Neemuch,Madhya Pradesh,19200,6220
+04/03/2024,Garlic,Indore,Madhya Pradesh,14400,6080
+04/03/2024,Garlic,Kota,Rajasthan,10500,5980
+11/03/2024,Garlic,Neemuch,Madhya Pradesh,20100,6360
+11/03/2024,Garlic,Indore,Madhya Pradesh,15100,6220
+11/03/2024,Garlic,Kota,Rajasthan,11000,6120
+18/03/2024,Garlic,Neemuch,Madhya Pradesh,19600,6300
+18/03/2024,Garlic,Indore,Madhya Pradesh,14700,6160
+18/03/2024,Garlic,Kota,Rajasthan,10700,6060
+25/03/2024,Garlic,Neemuch,Madhya Pradesh,20800,6420
+25/03/2024,Garlic,Indore,Madhya Pradesh,15600,6280
+25/03/2024,Garlic,Kota,Rajasthan,11400,6180
+01/04/2024,Garlic,Neemuch,Madhya Pradesh,21500,6560
+01/04/2024,Garlic,Indore,Madhya Pradesh,16100,6420
+01/04/2024,Garlic,Kota,Rajasthan,11800,6320
+08/04/2024,Garlic,Neemuch,Madhya Pradesh,22200,6660
+08/04/2024,Garlic,Indore,Madhya Pradesh,16700,6520
+08/04/2024,Garlic,Kota,Rajasthan,12200,6420
+15/04/2024,Garlic,Neemuch,Madhya Pradesh,21800,6620
+15/04/2024,Garlic,Indore,Madhya Pradesh,16400,6480
+15/04/2024,Garlic,Kota,Rajasthan,12000,6380
+22/04/2024,Garlic,Neemuch,Madhya Pradesh,22800,6720
+22/04/2024,Garlic,Indore,Madhya Pradesh,17100,6580
+22/04/2024,Garlic,Kota,Rajasthan,12500,6480
+29/04/2024,Garlic,Neemuch,Madhya Pradesh,23400,6820
+29/04/2024,Garlic,Indore,Madhya Pradesh,17600,6680
+29/04/2024,Garlic,Kota,Rajasthan,12900,6580
+06/05/2024,Garlic,Neemuch,Madhya Pradesh,20800,6880
+06/05/2024,Garlic,Indore,Madhya Pradesh,15600,6740
+06/05/2024,Garlic,Kota,Rajasthan,11400,6640
+13/05/2024,Garlic,Neemuch,Madhya Pradesh,21500,6960
+13/05/2024,Garlic,Indore,Madhya Pradesh,16100,6820
+13/05/2024,Garlic,Kota,Rajasthan,11800,6720
+20/05/2024,Garlic,Neemuch,Madhya Pradesh,20200,6920
+20/05/2024,Garlic,Indore,Madhya Pradesh,15200,6780
+20/05/2024,Garlic,Kota,Rajasthan,11100,6680
+27/05/2024,Garlic,Neemuch,Madhya Pradesh,21800,7020
+27/05/2024,Garlic,Indore,Madhya Pradesh,16400,6880
+27/05/2024,Garlic,Kota,Rajasthan,12000,6780
+03/06/2024,Garlic,Neemuch,Madhya Pradesh,19200,7180
+03/06/2024,Garlic,Indore,Madhya Pradesh,14400,7040
+03/06/2024,Garlic,Kota,Rajasthan,10500,6940
+10/06/2024,Garlic,Neemuch,Madhya Pradesh,20100,7260
+10/06/2024,Garlic,Indore,Madhya Pradesh,15100,7120
+10/06/2024,Garlic,Kota,Rajasthan,11000,7020
+17/06/2024,Garlic,Neemuch,Madhya Pradesh,19600,7220
+17/06/2024,Garlic,Indore,Madhya Pradesh,14700,7080
+17/06/2024,Garlic,Kota,Rajasthan,10700,6980
+24/06/2024,Garlic,Neemuch,Madhya Pradesh,20800,7280
+24/06/2024,Garlic,Indore,Madhya Pradesh,15600,7140
+24/06/2024,Garlic,Kota,Rajasthan,11400,7040
