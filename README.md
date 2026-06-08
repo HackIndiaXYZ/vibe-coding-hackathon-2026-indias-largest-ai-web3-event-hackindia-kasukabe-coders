@@ -321,9 +321,9 @@ mandi-mind/
 
 | Name | Role |
 |---|---|
-| [Your Name] | Full Stack + AI |
-| [Teammate 2] | Frontend + Design |
-| [Teammate 3] | Data + Backend |
+| Durgesh Sharma | Full Stack + AI |
+| Khushi Rathore | Frontend + Design |
+| Kaustav Halder | Data + Backend |
 
 *Built with ❤️ in Jaipur, Rajasthan for HackIndia Vibe Coding Hackathon 2026*
 
