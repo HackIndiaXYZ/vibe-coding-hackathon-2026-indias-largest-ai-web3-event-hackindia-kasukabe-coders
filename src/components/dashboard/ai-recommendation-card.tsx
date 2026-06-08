@@ -42,13 +42,13 @@ export function AIRecommendationCard({ recommendation }: AIRecommendationCardPro
       {/* Header */}
       <div className="flex items-start justify-between mb-3">
         <div className="flex items-center gap-2">
-          <div className="w-8 h-8 rounded-lg bg-slate-800/60 flex items-center justify-center">
+          <div className="w-8 h-8 rounded-lg bg-slate-100/60 dark:bg-slate-800/60 flex items-center justify-center">
             <Brain className="w-4 h-4 text-violet-400" />
           </div>
           <div>
-            <span className="text-xs text-slate-400">AI Recommendation</span>
+            <span className="text-xs text-slate-500 dark:text-slate-400">AI Recommendation</span>
             <div className="flex items-center gap-2">
-              <span className="text-sm font-semibold text-white">{recommendation.commodity}</span>
+              <span className="text-sm font-semibold text-slate-900 dark:text-white">{recommendation.commodity}</span>
               <span className={cn("text-[10px] font-bold px-2 py-0.5 rounded-full", config.badge)}>
                 {config.label}
               </span>
@@ -59,7 +59,7 @@ export function AIRecommendationCard({ recommendation }: AIRecommendationCardPro
       </div>
 
       {/* Message */}
-      <p className="text-sm text-slate-300 leading-relaxed mb-3">{recommendation.message}</p>
+      <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed mb-3">{recommendation.message}</p>
 
       {/* Bottom */}
       <div className="flex items-center justify-between">
@@ -69,7 +69,7 @@ export function AIRecommendationCard({ recommendation }: AIRecommendationCardPro
         </div>
         <div className="flex items-center gap-1.5 text-xs text-slate-500">
           <span>AI Confidence:</span>
-          <span className="font-bold text-slate-300">{recommendation.confidence}%</span>
+          <span className="font-bold text-slate-700 dark:text-slate-300">{recommendation.confidence}%</span>
         </div>
       </div>
     </div>

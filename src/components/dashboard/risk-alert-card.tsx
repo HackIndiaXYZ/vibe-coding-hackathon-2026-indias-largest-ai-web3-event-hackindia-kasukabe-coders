@@ -39,7 +39,7 @@ export function RiskAlertCard({ alert, compact = false }: RiskAlertCardProps) {
   return (
     <div
       className={cn(
-        "rounded-xl border bg-slate-800/60 p-4 card-hover",
+        "rounded-xl border bg-white/60 dark:bg-slate-800/60 p-4 card-hover",
         config.border
       )}
     >
@@ -49,7 +49,7 @@ export function RiskAlertCard({ alert, compact = false }: RiskAlertCardProps) {
           <div className={cn("w-2 h-2 rounded-full flex-shrink-0 mt-1", config.dot)} />
           <div>
             <div className="flex items-center gap-2">
-              <span className="text-sm font-semibold text-white">{alert.commodity}</span>
+              <span className="text-sm font-semibold text-slate-900 dark:text-white">{alert.commodity}</span>
               <span
                 className={cn(
                   "text-[10px] font-bold px-2 py-0.5 rounded-full border",
@@ -61,7 +61,7 @@ export function RiskAlertCard({ alert, compact = false }: RiskAlertCardProps) {
             </div>
             <div className="flex items-center gap-1.5 mt-0.5">
               <MapPin className="w-3 h-3 text-slate-500" />
-              <span className="text-xs text-slate-400">{alert.region}</span>
+              <span className="text-xs text-slate-500 dark:text-slate-400">{alert.region}</span>
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@ export function RiskAlertCard({ alert, compact = false }: RiskAlertCardProps) {
 
       {/* Reason */}
       {!compact && (
-        <p className="text-xs text-slate-400 leading-relaxed mb-3">{alert.reason}</p>
+        <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed mb-3">{alert.reason}</p>
       )}
 
       {/* Footer */}

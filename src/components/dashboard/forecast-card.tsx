@@ -28,7 +28,7 @@ export function ForecastCard({
   const pctChange = (((predictedMid - currentPrice) / currentPrice) * 100).toFixed(1);
 
   return (
-    <div className="rounded-2xl border border-emerald-500/20 bg-gradient-to-br from-slate-800/80 to-slate-900/80 p-5 card-hover shadow-lg shadow-emerald-500/5">
+    <div className="rounded-2xl border border-emerald-500/20 bg-gradient-to-br from-white/80 to-slate-50/80 dark:from-slate-800/80 dark:to-slate-900/80 p-5 card-hover shadow-lg shadow-emerald-500/5">
       {/* Header */}
       <div className="flex items-start justify-between mb-4">
         <div>
@@ -37,12 +37,12 @@ export function ForecastCard({
               <Target className="w-4 h-4 text-emerald-400" />
             </div>
             <div>
-              <h3 className="text-sm font-semibold text-white">{commodity} Price Forecast</h3>
+              <h3 className="text-sm font-semibold text-slate-900 dark:text-white">{commodity} Price Forecast</h3>
               <p className="text-xs text-slate-500">{market}</p>
             </div>
           </div>
         </div>
-        <div className="flex items-center gap-1 text-xs font-medium text-slate-400 bg-slate-800 border border-slate-700 rounded-lg px-2 py-1">
+        <div className="flex items-center gap-1 text-xs font-medium text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg px-2 py-1">
           <Clock className="w-3 h-3" />
           {timeframe}
         </div>
@@ -50,9 +50,9 @@ export function ForecastCard({
 
       {/* Price display */}
       <div className="grid grid-cols-2 gap-4 mb-4">
-        <div className="bg-slate-800/60 rounded-xl p-3 border border-slate-700/50">
+        <div className="bg-slate-100/60 dark:bg-slate-800/60 rounded-xl p-3 border border-slate-200/50 dark:border-slate-700/50">
           <div className="text-xs text-slate-500 mb-1">Current Price</div>
-          <div className="text-xl font-bold text-white font-space-grotesk">
+          <div className="text-xl font-bold text-slate-900 dark:text-white font-space-grotesk">
             ₹{currentPrice.toLocaleString("en-IN")}
           </div>
           <div className="text-xs text-slate-500">/quintal</div>
@@ -65,7 +65,7 @@ export function ForecastCard({
               : "bg-red-500/10 border-red-500/30"
           )}
         >
-          <div className="text-xs text-slate-400 mb-1">Predicted Range</div>
+          <div className="text-xs text-slate-500 dark:text-slate-400 mb-1">Predicted Range</div>
           <div
             className={cn(
               "text-xl font-bold font-space-grotesk",
@@ -94,7 +94,7 @@ export function ForecastCard({
       {/* Confidence bar */}
       <div>
         <div className="flex items-center justify-between mb-2">
-          <span className="text-xs text-slate-400 font-medium">AI Confidence Score</span>
+          <span className="text-xs text-slate-500 dark:text-slate-400 font-medium">AI Confidence Score</span>
           <span
             className={cn(
               "text-xs font-bold px-2 py-0.5 rounded-full",
@@ -108,7 +108,7 @@ export function ForecastCard({
             {confidence}%
           </span>
         </div>
-        <div className="h-2 bg-slate-700 rounded-full overflow-hidden">
+        <div className="h-2 bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden">
           <div
             className={cn(
               "h-full rounded-full transition-all duration-1000",

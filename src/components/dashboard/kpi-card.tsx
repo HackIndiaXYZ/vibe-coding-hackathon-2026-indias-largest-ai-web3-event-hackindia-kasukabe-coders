@@ -76,7 +76,7 @@ export function KPICard({
     <div
       className={cn(
         "relative overflow-hidden rounded-2xl border p-5",
-        "bg-gradient-to-br from-slate-800/80 to-slate-900/80",
+        "bg-gradient-to-br from-white/80 to-slate-50/80 dark:from-slate-800/80 dark:to-slate-900/80",
         "card-hover shadow-lg",
         colors.border,
         colors.glow
@@ -120,13 +120,13 @@ export function KPICard({
         </div>
 
         {/* Value */}
-        <div className="text-3xl font-bold text-white font-space-grotesk mb-1">
+        <div className="text-3xl font-bold text-slate-900 dark:text-white font-space-grotesk mb-1">
           {value}
         </div>
 
         {/* Labels */}
-        <div className="text-sm font-medium text-slate-300">{title}</div>
-        <div className="text-xs text-slate-500 mt-0.5">{description}</div>
+        <div className="text-sm font-medium text-slate-600 dark:text-slate-300">{title}</div>
+        <div className="text-xs text-slate-400 dark:text-slate-500 mt-0.5">{description}</div>
       </div>
     </div>
   );

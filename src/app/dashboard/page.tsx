@@ -42,16 +42,16 @@ export default function DashboardOverview() {
           <div>
             <div className="flex items-center gap-2 mb-1">
               <Sparkles className="w-4 h-4 text-emerald-400" />
-              <span className="text-emerald-400 text-sm font-medium">Good afternoon, Rajesh!</span>
+              <span className="text-emerald-400 text-sm font-medium">Welcome back!</span>
             </div>
-            <h2 className="text-xl font-bold text-white font-space-grotesk">
+            <h2 className="text-xl font-bold text-slate-900 dark:text-white font-space-grotesk">
               {isForecastReady ? (
                 <>Market conditions are <span className="text-emerald-400">favourable</span> for {topOpportunityCommodity} sellers today.</>
               ) : (
                 <>Database online and ready for <span className="text-emerald-400">data aggregation</span>.</>
               )}
             </h2>
-            <p className="text-slate-400 text-sm mt-1">
+            <p className="text-slate-500 dark:text-slate-400 text-sm mt-1">
               {isForecastReady ? (
                 <>{aiInsights.length} new AI insights available · {riskAlerts.filter((a) => a.severity === "high").length} high-priority risk alerts</>
               ) : (
@@ -67,7 +67,7 @@ export default function DashboardOverview() {
             </div>
             
             {/* Active dataset indicator */}
-            <div className="flex items-center gap-1.5 bg-slate-800/90 border border-slate-700/60 rounded-xl px-3.5 py-2 text-xs text-slate-300 font-semibold shadow-md">
+            <div className="flex items-center gap-1.5 bg-white/90 dark:bg-slate-800/90 border border-slate-200/60 dark:border-slate-700/60 rounded-xl px-3.5 py-2 text-xs text-slate-700 dark:text-slate-300 font-semibold shadow-md">
               <Database className="w-3.5 h-3.5 text-emerald-400" />
               <span>Using AGMARKNET {datasetMode === "uploaded" ? "Upload" : "Demo"} ({recordCount.toLocaleString()} records)</span>
             </div>
@@ -90,14 +90,14 @@ export default function DashboardOverview() {
             <div className="lg:col-span-1">
               <div className="mb-3 flex items-center gap-2">
                 <div className="w-1 h-4 rounded-full bg-emerald-500" />
-                <h2 className="text-sm font-semibold text-slate-300 uppercase tracking-wide">
+                <h2 className="text-sm font-semibold text-slate-600 dark:text-slate-300 uppercase tracking-wide">
                   Featured Forecast
                 </h2>
               </div>
               {featuredForecast ? (
                 <ForecastCard {...featuredForecast} />
               ) : (
-                <div className="rounded-2xl border border-slate-800 bg-slate-900/50 p-6 text-center text-slate-500 text-sm h-[200px] flex items-center justify-center">
+                <div className="rounded-2xl border border-slate-200 dark:border-slate-800 bg-white/50 dark:bg-slate-900/50 p-6 text-center text-slate-500 text-sm h-[200px] flex items-center justify-center">
                   No forecasts available for current active dataset
                 </div>
               )}
@@ -108,7 +108,7 @@ export default function DashboardOverview() {
               <div className="mb-3 flex items-center justify-between">
                 <div className="flex items-center gap-2">
                   <div className="w-1 h-4 rounded-full bg-red-500" />
-                  <h2 className="text-sm font-semibold text-slate-300 uppercase tracking-wide">
+                  <h2 className="text-sm font-semibold text-slate-600 dark:text-slate-300 uppercase tracking-wide">
                     Risk Alerts
                   </h2>
                   <span className="bg-red-500/20 text-red-400 text-xs font-bold px-2 py-0.5 rounded-full border border-red-500/30">
@@ -124,7 +124,7 @@ export default function DashboardOverview() {
                   <RiskAlertCard key={alert.id} alert={alert} compact />
                 ))}
                 {riskAlerts.length === 0 && (
-                  <div className="col-span-2 rounded-2xl border border-slate-800 bg-slate-900/50 p-6 text-center text-slate-500 text-sm">
+                  <div className="col-span-2 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white/50 dark:bg-slate-900/50 p-6 text-center text-slate-500 text-sm">
                     No active risk alerts detected in the current dataset
                   </div>
                 )}
@@ -136,7 +136,7 @@ export default function DashboardOverview() {
           <div>
             <div className="mb-3 flex items-center gap-2">
               <div className="w-1 h-4 rounded-full bg-violet-500" />
-              <h2 className="text-sm font-semibold text-slate-300 uppercase tracking-wide">
+              <h2 className="text-sm font-semibold text-slate-600 dark:text-slate-300 uppercase tracking-wide">
                 AI Recommendations
               </h2>
               <Brain className="w-4 h-4 text-violet-400" />
