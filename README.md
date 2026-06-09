@@ -15,7 +15,7 @@ Hackathon team repository for Kasukabe Coders - [hackindia-team:vibe-coding-hack
 
 ## 🚨 The Problem
 
-**Every year, Indian farmers and agri-traders lose crores — not because of bad crops, but because of bad timing.**
+**Every year, Indian farmers, and agri-traders lose crores — not because of bad crops, but because of bad timing.**
 
 - 📉 Farmers sell onions in Maharashtra right before a **18% price crash** — because they had no data
 - 💸 Over **₹92,000 crore** worth of agricultural produce is lost annually due to wrong sell timing and market misinformation
@@ -102,6 +102,26 @@ Get back a structured analysis:
 - Column mapping and validation built in
 - Instant dataset switching — Demo ↔ Real data
 - Dataset readiness diagnostics (prevents misleading forecasts)
+
+---
+
+## 🎨 User Experience & Interface Design
+
+MandiMind AI is designed for fast decision-making in agricultural markets. The interface focuses on reducing information overload while surfacing the most critical insights first.
+
+### Design Goals
+* Present complex forecasting outputs in an understandable format
+* Highlight risks and opportunities through visual indicators
+* Maintain accessibility for users with varying technical expertise
+
+### UX Highlights
+* Clean dashboard-first workflow
+* Color-coded risk severity indicators
+* Interactive forecasting visualizations
+* Responsive layouts for desktop and mobile devices
+* Simplified navigation between intelligence modules
+
+By prioritizing clarity over complexity, MandiMind AI helps users focus on actionable decisions instead of raw data interpretation.
 
 ---
 
