@@ -6,7 +6,7 @@ Hackathon team repository for Kasukabe Coders - [hackindia-team:vibe-coding-hack
 
 > **"Bloomberg Terminal for Indian Farmers — built on government open data, accessible to anyone."**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-orange?style=for-the-badge)](https://mandimind.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-orange?style=for-the-badge)](https://vibe-coding-hackathon-2026-indias.onrender.com/)
 [![Demo Video](https://img.shields.io/badge/Demo%20Video-Watch%20Now-red?style=for-the-badge)](https://www.loom.com/share/bd5ea7c7657c4793a5fd4b1014c70c03?t=393)
 [![Built with AI](https://img.shields.io/badge/Built%20With-Vibe%20Coding%20%2B%20AI-blue?style=for-the-badge)](#)
 [![HackIndia 2026](https://img.shields.io/badge/HackIndia-Vibe%20Coding%202026-green?style=for-the-badge)](#)
